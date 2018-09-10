@@ -1,0 +1,11 @@
+{
+  "name": "calendar-bar",
+  "version": "1.0.0",
+  "description": "Google Calendar in the menu bar rather than the browser.",
+  "main": "index.js",
+  "author": "Christopher McMorran",
+  "license": "MIT",
+  "dependencies": {
+    "menubar": "^5.2.3"
+  }
+}
